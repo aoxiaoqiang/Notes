@@ -1,4 +1,4 @@
-# Notes
+# notes
 
 日常随手笔记
 
