@@ -52,3 +52,13 @@ parseInt(3, 2);	// NaN
 因此我计划最近将一些基础的 JavaScript API 整理一遍， 梳理一下自己对基础知识的掌握程度，查漏补缺。
 
 
+
+
+参考地址：
+
++ [https://segmentfault.com/a/1190000015895317](https://segmentfault.com/a/1190000015895317)
++ [map文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
++ [parseInt文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+
+
+
